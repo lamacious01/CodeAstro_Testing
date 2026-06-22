@@ -11,4 +11,10 @@ conflict1
 conflict2
 remove_attempt
 
+<<<<<<< Updated upstream
 curious
+=======
+
+
+curious2
+>>>>>>> Stashed changes
