@@ -1,5 +1,5 @@
 hello
 hi
 cool
-add\
+add
 more
