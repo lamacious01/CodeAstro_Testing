@@ -7,3 +7,6 @@ more
 
 remove_attempt
 conflict1
+
+conflict2
+remove_attempt
